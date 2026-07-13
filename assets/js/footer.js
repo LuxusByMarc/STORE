@@ -18,15 +18,16 @@ FOOTER
 
         <h2 class="text-white mt-3">
 
-            Bereit für deinen nächsten Yachturlaub?
+            So funktioniert deine Bestellung
 
         </h2>
 
         <p class="text-white mt-3" style="max-width:700px;margin:30px auto;opacity:.9;">
 
-            Kontaktiere uns direkt über WhatsApp und erhalte
-
-            ein individuelles Angebot für deine Wunschdestination.
+  Stöbere in unseren Kategorien und suche dir deine Wunschartikel aus. Notiere dir die Artikelnummern oder sende uns einen Screenshot.
+  Kontaktiere uns ganz einfach über Whatsapp – Dort wirst du persönlich auf Deutsch betreut.
+  Nach deiner Auswahl erhältst du alle Details zur Bezahlung sowie eine Bestellbestätigung. Wir kümmern uns um den Rest.
+  Jetzt kannst du dich entspannt zurücklehnen – dein Paket kommt sicher bei dir an. 
 
         </p>
 
