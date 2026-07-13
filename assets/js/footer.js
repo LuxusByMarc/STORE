@@ -43,13 +43,6 @@ FOOTER
 
             </a>
 
-            <a href="contact.html"
-
-               class="btn btn-outline">
-
-                Kontaktseite
-
-            </a>
 
         </div>
 
@@ -59,7 +52,7 @@ FOOTER
 
             <p>
 
-                © 2026 Nautikify. Alle Rechte vorbehalten.
+                © 2026 Luxus by Marc - Alle Rechte vorbehalten.
 
             </p>
 
