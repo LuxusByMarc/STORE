@@ -6,7 +6,7 @@ document.getElementById("header").innerHTML = `
 
         <a href="index.html" class="logo">
 
-            NAUTIK<span>IFY</span>
+            Luxus by<span>Marc</span>
 
         </a>
 
