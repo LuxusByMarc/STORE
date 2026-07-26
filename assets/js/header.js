@@ -22,31 +22,28 @@ document.getElementById("header").innerHTML = `
 
                 <li>
 
-                    <a href="charter.html">Charter</a>
+                    <a href="uhren.html">Charter</a>
 
                     <div class="dropdown">
 
-                        <a href="mallorca.html">Mallorca</a>
+                        <a href="rolex.html">Rolex</a>
 
-                        <a href="ibiza.html">Ibiza</a>
+                        <a href="patek.html">Patek Philippe</a>
 
-                        <a href="barcelona.html">Barcelona</a>
+                        <a href="ap.html">Audemars Piguet</a>
 
-                        <a href="cote-azur.html">Côte d'Azur</a>
+                        <a href="hublot.html">Hublot</a>
 
-                        <a href="sardinia.html">Sardinien</a>
+                        <a href="cartier.html">Cartier</a>
 
-                        <a href="athens.html">Athen</a>
+                        <a href="breitling.html">Breitling</a>
 
-                        <a href="mykonos.html">Mykonos</a>
+                        <a href="panerai.html">Panerai</a>
 
-                        <a href="dubrovnik.html">Dubrovnik</a>
+                        <a href="tudor.html">Tudor</a>
+    
 
-                        <a href="malta.html">Malta</a>
-
-                        <a href="kanaren.html">Kanarische Inseln</a>
-
-                    </div>
+                </div>
 
                 </li>
 
