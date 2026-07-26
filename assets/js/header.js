@@ -22,7 +22,7 @@ document.getElementById("header").innerHTML = `
 
                 <li>
 
-                    <a href="uhren.html">Charter</a>
+                    <a href="uhren.html">Uhren</a>
 
                     <div class="dropdown">
 
