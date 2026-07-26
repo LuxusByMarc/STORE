@@ -49,19 +49,25 @@ document.getElementById("header").innerHTML = `
 
                 <li>
 
-                    <a href="deals.html">Deals</a>
+                    <a href="schuhe.html">Schuhe / Sneaker</a>
 
                 </li>
 
                 <li>
 
-                    <a href="about.html">Über uns</a>
+                    <a href="bag.html">Taschen</a>
 
                 </li>
 
                 <li>
 
-                    <a href="contact.html">Kontakt</a>
+                    <a href="bekleidung.html">Bekleidung</a>
+
+                </li>
+
+                <li>
+
+                    <a href="trikot.html">Trikots</a>
 
                 </li>
 
