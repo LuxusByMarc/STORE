@@ -2150,3 +2150,16 @@ header.scrolled{
     display:block;
 
 }
+
+/* =========================== PRODUKT LAYOUT (NEU) =========================== */
+.product-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+@media (min-width: 992px) {
+  .product-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
