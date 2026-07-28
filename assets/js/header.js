@@ -32,6 +32,8 @@ document.getElementById("header").innerHTML = `
 
                         <a href="ap.html">Audemars Piguet</a>
 
+                        <a href="omega.html">Omega</a>
+
                         <a href="hublot.html">Hublot</a>
 
                         <a href="cartier.html">Cartier</a>
