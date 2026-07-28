@@ -26,23 +26,23 @@ document.getElementById("header").innerHTML = `
 
                     <div class="dropdown">
 
-                        <a href="rolex.html">Rolex</a>
+                        <a href="uxrolex.html">Rolex</a>
 
-                        <a href="patek.html">Patek Philippe</a>
+                        <a href="uxpatek.html">Patek Philippe</a>
 
-                        <a href="ap.html">Audemars Piguet</a>
+                        <a href="uxap.html">Audemars Piguet</a>
 
-                        <a href="omega.html">Omega</a>
+                        <a href="uxomega.html">Omega</a>
 
-                        <a href="hublot.html">Hublot</a>
+                        <a href="uxhublot.html">Hublot</a>
 
-                        <a href="cartier.html">Cartier</a>
+                        <a href="uxcartier.html">Cartier</a>
 
-                        <a href="breitling.html">Breitling</a>
+                        <a href="uxbreitling.html">Breitling</a>
 
-                        <a href="panerai.html">Panerai</a>
+                        <a href="uxpanerai.html">Panerai</a>
 
-                        <a href="tudor.html">Tudor</a>
+                        <a href="uxtudor.html">Tudor</a>
     
 
                 </div>
