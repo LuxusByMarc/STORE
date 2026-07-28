@@ -58,6 +58,39 @@ document.getElementById("header").innerHTML = `
                 <li>
 
                     <a href="bag.html">Taschen</a>
+                    <div class="dropdown">
+
+                        <a href="bagbalenciaga.html">Balenciaga</a>
+
+                        <a href="bagchloe.html">Chloe</a>
+
+                        <a href="bagcoach.html">Coach</a>
+
+                        <a href="bagfendi.html">Fendiu</a>
+
+                        <a href="baggivenchy.html">Givenchy</a>
+
+                        <a href="baggoyard.html">Goyard</a>
+
+                        <a href="baggucci.html">Gucci</a>
+
+                        <a href="baghermes.html">Hermés</a>
+
+                        <a href="baglouis-vuitton.html">Louis Vuitton</a>
+
+                        <a href="bagmiumiu.html">Miu Miu</a>
+
+                        <a href="bagprada.html">Prada</a>
+
+                        <a href="bagvalentino.html">Valentino</a>
+
+                        <a href="bagversace.html">Versace</a>
+
+                        <a href="bagysl.html">YvesSaintLaurent</a>
+
+
+                </div>
+
 
                 </li>
 
