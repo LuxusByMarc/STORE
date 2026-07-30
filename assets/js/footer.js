@@ -33,7 +33,7 @@ FOOTER
 
         <div class="hero-buttons">
 
-            <a href="https://wa.me/49123456789"
+            <a href="https://wa.me/526732304964"
 
                target="_blank"
 
