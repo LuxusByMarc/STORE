@@ -66,7 +66,7 @@ document.getElementById("header").innerHTML = `
 
                         <a href="bagcoach.html">Coach</a>
 
-                        <a href="bagfendi.html">Fendiu</a>
+                        <a href="bagfendi.html">Fendi</a>
 
                         <a href="baggivenchy.html">Givenchy</a>
 
